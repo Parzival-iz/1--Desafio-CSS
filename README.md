@@ -23,9 +23,6 @@ Este é o primeiro desafio focado no aprimoramento das habilidades em **CSS**. O
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
-## 📸 Captura de Tela (Opcional)
-*Adicione uma imagem do projeto aqui para ilustrar o resultado.*
-
 ## 📌 Melhorias Futuras
 - Adicionar animações CSS.
 - Implementar um modo escuro.
