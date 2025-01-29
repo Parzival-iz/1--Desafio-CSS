@@ -1,4 +1,4 @@
-# Desafio CSS
+# Desafio CSS (We Care)
 
 ## 📌 Sobre o Projeto
 Este é o primeiro desafio focado no aprimoramento das habilidades em **CSS**. O objetivo é explorar técnicas de estilização e layout para páginas web, aplicando boas práticas e experimentando diferentes abordagens.
