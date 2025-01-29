@@ -15,11 +15,11 @@ Este é o primeiro desafio focado no aprimoramento das habilidades em **CSS**. O
 ## 📂 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Parzival-iz/1--Desafio-CSS.git
+   git clone https://github.com/Parzival-iz/1--Desafio-CSS--We-Care-.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd 1--Desafio-CSS
+   cd 1--Desafio-CSS--We-Care-
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
